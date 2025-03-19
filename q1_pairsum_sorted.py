@@ -3,6 +3,7 @@
 '''
 Link: https://bytebytego.com/exercises/coding-patterns/two-pointers/pair-sum-sorted
 
+Pair Sum - Sorted
 
 Problem:    
     Given an array of integers sorted in ascending order and a target value, return the indexes of any pair of numbers
