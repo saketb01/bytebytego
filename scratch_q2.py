@@ -53,7 +53,7 @@ def triplet_sum_optimization1(nums: List[int]) -> List[List[int]]:
             else:
                 right -= 1
        
-    response
+    return response
 
 
 
