@@ -51,11 +51,12 @@ def triplet_sum_optimization1(nums: List[int]) -> List[List[int]]:
             elif current_sum < 0:
                 left += 1
             else:
-                right -= 1
-       
-    return response
+                right -= 1       
+    response
 
 
 
 if __name__ == "__main__":
     print(triplet_sum([1, 2, -2, -1, 0, 3]))
+    print(triplet_sum_optimization1([1, 2, -2, -1, 0, 3]))
+    print(triplet_sum([-4,-4,-2,0,0,1,2,3]))
